@@ -1,0 +1,25 @@
+---
+title: "HelloWorld2"
+author: "Valerie H"
+date: '2022-03-29'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is an R Markdown file
+
+**Check it out!!**
+*Is it working?*  check here:
+
+-clone repository to Rstudio  
+-create this R Markdown file  
+-select Git tab in the upper right quadrant  
+-select Commit  
+-stage the files  
+-add Commit comment  
+-select push!
+
+***It is done***
